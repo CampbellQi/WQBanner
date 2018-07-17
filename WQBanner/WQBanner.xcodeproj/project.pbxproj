@@ -12,14 +12,14 @@
 		2610BFC120DC8E8700C9745F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFBF20DC8E8700C9745F /* Main.storyboard */; };
 		2610BFC320DC8E8B00C9745F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFC220DC8E8B00C9745F /* Assets.xcassets */; };
 		2610BFC620DC8E8B00C9745F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFC420DC8E8B00C9745F /* LaunchScreen.storyboard */; };
-		2610BFCE20DC8EA100C9745F /* WQBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2610BFCD20DC8EA100C9745F /* WQBannerView.swift */; };
-		2610BFD020DC991E00C9745F /* WQBannerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFCF20DC991E00C9745F /* WQBannerView.xib */; };
-		2610BFD320DC9AD400C9745F /* WQBannerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2610BFD120DC9AD400C9745F /* WQBannerCell.swift */; };
-		2610BFD420DC9AD400C9745F /* WQBannerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFD220DC9AD400C9745F /* WQBannerCell.xib */; };
 		2610BFD920DC9F0A00C9745F /* timg-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFD520DC9F0A00C9745F /* timg-1.jpeg */; };
 		2610BFDB20DC9F0A00C9745F /* timg-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFD720DC9F0A00C9745F /* timg-3.jpeg */; };
 		2610BFDC20DC9F0A00C9745F /* timg-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFD820DC9F0A00C9745F /* timg-2.jpeg */; };
 		2610BFE220DCA0A100C9745F /* timg-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2610BFE120DCA0A100C9745F /* timg-4.jpeg */; };
+		263C8A5120E32F6900FA1707 /* WQBannerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 263C8A4D20E32F6900FA1707 /* WQBannerView.xib */; };
+		263C8A5220E32F6900FA1707 /* WQBannerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 263C8A4E20E32F6900FA1707 /* WQBannerCell.xib */; };
+		263C8A5320E32F6900FA1707 /* WQBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 263C8A4F20E32F6900FA1707 /* WQBannerView.swift */; };
+		263C8A5420E32F6900FA1707 /* WQBannerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 263C8A5020E32F6900FA1707 /* WQBannerCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,14 +30,14 @@
 		2610BFC220DC8E8B00C9745F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2610BFC520DC8E8B00C9745F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2610BFC720DC8E8B00C9745F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2610BFCD20DC8EA100C9745F /* WQBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WQBannerView.swift; sourceTree = "<group>"; };
-		2610BFCF20DC991E00C9745F /* WQBannerView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WQBannerView.xib; sourceTree = "<group>"; };
-		2610BFD120DC9AD400C9745F /* WQBannerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WQBannerCell.swift; sourceTree = "<group>"; };
-		2610BFD220DC9AD400C9745F /* WQBannerCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WQBannerCell.xib; sourceTree = "<group>"; };
 		2610BFD520DC9F0A00C9745F /* timg-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-1.jpeg"; sourceTree = "<group>"; };
 		2610BFD720DC9F0A00C9745F /* timg-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-3.jpeg"; sourceTree = "<group>"; };
 		2610BFD820DC9F0A00C9745F /* timg-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-2.jpeg"; sourceTree = "<group>"; };
 		2610BFE120DCA0A100C9745F /* timg-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "timg-4.jpeg"; sourceTree = "<group>"; };
+		263C8A4D20E32F6900FA1707 /* WQBannerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WQBannerView.xib; sourceTree = "<group>"; };
+		263C8A4E20E32F6900FA1707 /* WQBannerCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WQBannerCell.xib; sourceTree = "<group>"; };
+		263C8A4F20E32F6900FA1707 /* WQBannerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WQBannerView.swift; sourceTree = "<group>"; };
+		263C8A5020E32F6900FA1707 /* WQBannerCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WQBannerCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,20 +70,28 @@
 		2610BFBA20DC8E8700C9745F /* WQBanner */ = {
 			isa = PBXGroup;
 			children = (
+				263C8A4C20E32F6900FA1707 /* WQBanner */,
 				2610BFD520DC9F0A00C9745F /* timg-1.jpeg */,
 				2610BFD820DC9F0A00C9745F /* timg-2.jpeg */,
 				2610BFD720DC9F0A00C9745F /* timg-3.jpeg */,
 				2610BFE120DCA0A100C9745F /* timg-4.jpeg */,
 				2610BFBB20DC8E8700C9745F /* AppDelegate.swift */,
 				2610BFBD20DC8E8700C9745F /* ViewController.swift */,
-				2610BFCD20DC8EA100C9745F /* WQBannerView.swift */,
-				2610BFCF20DC991E00C9745F /* WQBannerView.xib */,
-				2610BFD120DC9AD400C9745F /* WQBannerCell.swift */,
-				2610BFD220DC9AD400C9745F /* WQBannerCell.xib */,
 				2610BFBF20DC8E8700C9745F /* Main.storyboard */,
 				2610BFC220DC8E8B00C9745F /* Assets.xcassets */,
 				2610BFC420DC8E8B00C9745F /* LaunchScreen.storyboard */,
 				2610BFC720DC8E8B00C9745F /* Info.plist */,
+			);
+			path = WQBanner;
+			sourceTree = "<group>";
+		};
+		263C8A4C20E32F6900FA1707 /* WQBanner */ = {
+			isa = PBXGroup;
+			children = (
+				263C8A4D20E32F6900FA1707 /* WQBannerView.xib */,
+				263C8A4E20E32F6900FA1707 /* WQBannerCell.xib */,
+				263C8A4F20E32F6900FA1707 /* WQBannerView.swift */,
+				263C8A5020E32F6900FA1707 /* WQBannerCell.swift */,
 			);
 			path = WQBanner;
 			sourceTree = "<group>";
@@ -147,12 +155,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				2610BFDB20DC9F0A00C9745F /* timg-3.jpeg in Resources */,
+				263C8A5220E32F6900FA1707 /* WQBannerCell.xib in Resources */,
 				2610BFC620DC8E8B00C9745F /* LaunchScreen.storyboard in Resources */,
-				2610BFD420DC9AD400C9745F /* WQBannerCell.xib in Resources */,
+				263C8A5120E32F6900FA1707 /* WQBannerView.xib in Resources */,
 				2610BFD920DC9F0A00C9745F /* timg-1.jpeg in Resources */,
 				2610BFC320DC8E8B00C9745F /* Assets.xcassets in Resources */,
 				2610BFE220DCA0A100C9745F /* timg-4.jpeg in Resources */,
-				2610BFD020DC991E00C9745F /* WQBannerView.xib in Resources */,
 				2610BFC120DC8E8700C9745F /* Main.storyboard in Resources */,
 				2610BFDC20DC9F0A00C9745F /* timg-2.jpeg in Resources */,
 			);
@@ -167,8 +175,8 @@
 			files = (
 				2610BFBE20DC8E8700C9745F /* ViewController.swift in Sources */,
 				2610BFBC20DC8E8700C9745F /* AppDelegate.swift in Sources */,
-				2610BFCE20DC8EA100C9745F /* WQBannerView.swift in Sources */,
-				2610BFD320DC9AD400C9745F /* WQBannerCell.swift in Sources */,
+				263C8A5320E32F6900FA1707 /* WQBannerView.swift in Sources */,
+				263C8A5420E32F6900FA1707 /* WQBannerCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
